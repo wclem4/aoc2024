@@ -1,0 +1,7 @@
+(executable
+ (name p1)
+ (libraries str))
+
+(executable
+ (name p2)
+ (libraries str))
